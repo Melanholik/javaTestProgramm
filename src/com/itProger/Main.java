@@ -6,5 +6,6 @@ public class Main {
     Worker worker = new Worker("Виталий",31,"Мужик",5);
     System.out.println(worker);
     }
-    //test
+    // test
+    // test2
 }
